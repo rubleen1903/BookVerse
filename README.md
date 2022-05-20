@@ -5,7 +5,6 @@ For details and understanding the project, please look into this slides to get a
 
 
 # Project Gallery
-![project1]()
 
 <img src="https://user-images.githubusercontent.com/47170879/169556974-31a9a987-264a-4aa7-afa7-8c2aec230e80.png" width="23%"></img> 
 <img src="https://user-images.githubusercontent.com/47170879/169565878-d57b1d93-4a53-46fb-8b36-013f667404c7.png" width="23%"></img> 
