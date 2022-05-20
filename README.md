@@ -5,6 +5,18 @@ For details and understanding the project, please look into this slides to get a
 
 
 # Project Gallery
+![project1]()
+
+<img src="https://user-images.githubusercontent.com/47170879/169556974-31a9a987-264a-4aa7-afa7-8c2aec230e80.png" width="23%"></img> 
+<img src="https://user-images.githubusercontent.com/47170879/169565878-d57b1d93-4a53-46fb-8b36-013f667404c7.png" width="23%"></img> 
+<img src="![project4](https://user-images.githubusercontent.com/47170879/169566400-96ab3a5d-9b87-4428-b2e2-38e67ebbfc8d.png)
+" width="23%"></img> 
+<img src="https://user-images.githubusercontent.com/47170879/169566425-1fdc106c-7516-4639-bc6a-9bb58c25074d.png
+" width="23%"></img> 
+<img src="https://user-images.githubusercontent.com/47170879/169566451-9739a1a6-939c-490b-acfd-24f6782e38c0.png
+" width="23%"></img> 
+<img src="https://user-images.githubusercontent.com/47170879/169566489-ef79f5d1-4530-4b4c-b646-323114e64e4f.png" width="23%"></img> 
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
