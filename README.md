@@ -1,3 +1,12 @@
+For details and understanding the project, please look into this slides to get a better understanding about the project
+
+[Bookverse](https://docs.google.com/presentation/d/1wtlRm7QEafqh1OT16XKdnHtZpEKh0Ae_0T8u-Pbiz3k/edit?usp=sharing)
+
+
+
+# Project Gallery
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
